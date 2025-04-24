@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shruti07-git
+- 👋 Hi, I’m Shruti Ladkat
 - 👀 I’m interested in learning and exploring new emerging technologies 
 - 🌱 I’m currently learning basics of JAVA programming and android development 
 - 💞️ I’m looking to collaborate on various projects regarding development 
